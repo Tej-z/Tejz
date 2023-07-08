@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejas R
 - 👀 I’m interested in Software-Development 
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning JavaScipt
 - 📫 How to reach me tejasr0810@gmail.com
 
 <!---
